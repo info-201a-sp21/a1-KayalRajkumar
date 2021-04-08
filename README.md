@@ -3,7 +3,7 @@ The B.1.1.7 variant of COVID-19, originally discovered in the UK, is the now mos
 
 > There are currently 16,275 confirmed cases of the B.1.1.7 variant in the United States, according to the CDC.
 
-![Graphic of the B.1.1.7 "UK variant"](https://specials-images.forbesimg.com/imageserve/5fef42b5d839b5010b03842a/960x0.jpg?fit=scale)
+![Graphic of the B.1.1.7 "UK variant"](imgs/960x0.jpg)
 
 Other information:
 - The UK variant led to the second [deadly wave](https://www.forbes.com/sites/victoriaforster/2021/03/15/uk-coronavirus-variant-significantly-more-deadly-says-new-study/?sh=74e5471f6a1e) in the UK last year
