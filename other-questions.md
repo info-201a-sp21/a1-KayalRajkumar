@@ -15,7 +15,7 @@ cd
 git clone
 
 # Using a *relative path*, change your directory to inside the repository you just cloned
-
+cd ..
 
 # Make a new folder called "imgs" - you'll download an image into this folder
 mkdir imgs
